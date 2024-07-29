@@ -6,7 +6,7 @@ For more information, see the [forum topic](https://forum.minetest.net/viewtopic
 
 **Dependancies**: font_api
 
-**License**: MIT
+**License**: code under GPLv3, font in MIT
 
 ## Original Font
 
